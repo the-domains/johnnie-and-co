@@ -1,28 +1,40 @@
-name: 'Johnnie & Co. '
-favicon: null
-layout_spectrum: 0.13173175207339227
-typography_spectrum: 0.08278996893204749
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
+layout_spectrum: 0.1317317520733923
 opengraph:
   image: null
   type: null
   appId: null
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+purpose: []
 color:
+  saturation: 0.8488806
+  brandStrength: 0.5403689115773886
+  lightness: 0.6627799
   brandColors:
     - '#9D2D3C'
     - '#DDE4DD'
     - '#BCAB47'
     - '#6B574B'
     - '#160600'
-  brandStrength: 0.5403689115773886
-  lightness: 0.7045117099769413
-  saturation: 0.25285053509287536
-  rhythmicContrast: 0.865387171972543
-purpose: []
+  rhythmicContrast: 0.5125933
+typography_spectrum: 0.5233209
+cta:
+  bucket: null
+  version: null
+  domain: null
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+favicon: null
+name: 'Johnnie & Co. '
