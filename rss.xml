@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Johnnie & Co. ]]></title>
+        <description><![CDATA[Johnnie & Co. ]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 02 Aug 2016 17:43:54 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>https://www.adelyte.com/blog/pirch-or-how-to-make-residential-retail-fun-again</p>]]></description>
+            <link>undefinedhttpswwwadelytecomblogpirch-or-how-to-make-residentia/index.html</link>
+            <guid isPermaLink="false">88a159c3-2e49-469b-9b08-467eba168a07</guid>
+            <pubDate>Tue, 02 Aug 2016 17:43:52 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
