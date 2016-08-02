@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Johnnie & Co. ]]></title>
         <description><![CDATA[Johnnie & Co. ]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/johnnie-and-co/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 02 Aug 2016 17:43:54 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 02 Aug 2016 23:40:51 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/johnnie-and-co/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[How to Become a Millionaire in the Audio/Video Business]]></title>
+            <description><![CDATA[<article><h1>How to Become a Millionaire in the Audio/Video Business</h1><p>The old adage in Napa Valley is that, if you want to become a millionaire in the wine business, start with $20,000,000. This is becoming truth in the specialty audio/video business, as well. This business was created and supported by Baby Boomers back in the late 1960s and early 1970s.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/62e70f44c1ea26edd5441d521387a6f2/croprotate.jpg?cropheight=275&cropwidth=271&degrees=0&input=http%3A%2F%2Fhometheaterreview.com%2FPile-of-money.jpg&x=65&y=0"></article>]]></description>
+            <link>http://hometheaterreview.com/how-to-become-a-millionaire-in-the-audiovideo-business/</link>
+            <guid isPermaLink="false">0b15556b-dbd8-49e0-a19a-ff52a170f034</guid>
+            <pubDate>Tue, 02 Aug 2016 23:40:50 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>https://www.adelyte.com/blog/pirch-or-how-to-make-residential-retail-fun-again</p>]]></description>
-            <link>undefinedhttpswwwadelytecomblogpirch-or-how-to-make-residentia/index.html</link>
+            <link>https://thegrid.ai/johnnie-and-co/httpswwwadelytecomblogpirch-or-how-to-make-residentia/index.html</link>
             <guid isPermaLink="false">88a159c3-2e49-469b-9b08-467eba168a07</guid>
             <pubDate>Tue, 02 Aug 2016 17:43:52 GMT</pubDate>
         </item>
