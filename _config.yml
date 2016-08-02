@@ -1,0 +1,28 @@
+name: 'Johnnie & Co. '
+favicon: null
+layout_spectrum: 0.13173175207339227
+typography_spectrum: 0.08278996893204749
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.5403689115773886
+  lightness: 0.7045117099769413
+  saturation: 0.25285053509287536
+  rhythmicContrast: 0.865387171972543
+purpose: []
