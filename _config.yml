@@ -1,4 +1,8 @@
-layout_spectrum: 0.1317317520733923
+favicon: null
+cta:
+  bucket: null
+  version: null
+  domain: null
 opengraph:
   image: null
   type: null
@@ -9,17 +13,17 @@ collections:
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
+    permalink:
+      path: '/:title/'
 purpose: []
 color:
   saturation: 0.8488806
   brandStrength: 0.5403689115773886
-  lightness: 0.6627799
+  lightness: 0.3568097
   brandColors:
     - '#9D2D3C'
     - '#DDE4DD'
@@ -28,13 +32,9 @@ color:
     - '#160600'
   rhythmicContrast: 0.5125933
 typography_spectrum: 0.5233209
-cta:
-  bucket: null
-  version: null
-  domain: null
+layout_spectrum: 0.1317317520733923
 analytics:
   twitter: null
   google: null
   facebook: null
-favicon: null
 name: 'Johnnie & Co. '
